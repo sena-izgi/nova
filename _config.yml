@@ -5,4 +5,4 @@ description: Follow the design system here.
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal
